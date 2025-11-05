@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/Chandigarh University/5th Semester/DAA/DAA_23BCS13291_KRG_1_A/EXP 3.2",
+      "program": "d:/Chandigarh University/5th Semester/DAA/DAA_23BCS13291_KRG_1_A/EXP 3.2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
